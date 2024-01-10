@@ -34,7 +34,7 @@ The Plasma Donation Camp Management System is a simple console-based application
    -Enter the required information as prompted.
 
 ## Sample Donor Record
-``` css
+``` cmd
 Name of Donor          Blood Group         Number          Bag Qty (in mL)
 John Doe               A+                  123456789       400
 ```
